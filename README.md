@@ -1,18 +1,10 @@
-<!-- PROJECT SHIELDS -->
-[![Build Status][build-shield]]()
-[![Contributors][contributors-shield]]()
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <h3 align="center">AWS 2.0</h3>
   <p align="center">
-    School project to demonstrate cloud computing platform capabilities.
-    <br />
-    <a href="https://github.com/sheldoncoates/AWS2.0/issues">Report Bug</a>
+    Project to demonstrate cloud computing platform capabilities.
    </p>
 </p>
 
@@ -29,9 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://sheldoncoates.github.io/)
-
-This project was created to demonstrate how cloud computing platforms work. 
+This project was created to demonstrate how cloud computing platforms work and to familiarize myself with deployments on Azure.
 
 ### Built With
 Here is the tech used to create this project.
@@ -45,13 +35,12 @@ Here is the tech used to create this project.
 <!-- CONTACT -->
 ## Contact
 
-Sheldon Coates - [LinkedIn](https://www.linkedin.com/in/sheldoncoates/) - sjrcoates@gmail.com 
+Jacob Chambers - [LinkedIn](https://www.linkedin.com/in/-jacob-chambers/) - jake_chambers12@hotmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [build-shield]: https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square
 [contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/mit
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sheldoncoates/
 [product-screenshot]: aws.gif
